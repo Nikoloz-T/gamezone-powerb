@@ -1,2 +1,2 @@
 # gamezone-powerb
-GAMEZONE Sales &amp; Marketing Performance Report
+Power BI dashboard for analyzing sales & marketing data of GAMEZONE, a fictional e-commerce company.
